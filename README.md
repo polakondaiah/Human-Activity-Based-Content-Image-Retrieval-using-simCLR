@@ -1,6 +1,6 @@
 # Human-Activity-Based-Content-Image-Retrieval-using-simCLR
 
-Human Activity-Based Content Image Retrieval
+
 
 Introduction
 This project focuses on developing a Content-Based Image Retrieval (CBIR) system specialized in recognizing and retrieving images based on human activities. Leveraging advanced neural network architectures, the system aims to efficiently rank images in terms of similarity to given queries.
