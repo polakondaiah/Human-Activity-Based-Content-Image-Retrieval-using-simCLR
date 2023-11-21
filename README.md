@@ -15,6 +15,10 @@ Query Data: 150 images
 Gallery Data: 1,000 images
 Activities covered include calling, clapping, cycling, dancing, and more.
 
+
+### Accessing the Dataset
+Due to the large size of the dataset, it is hosted externally. To access and download the complete dataset, please visit the following link: [Download Dataset](https://drive.google.com/file/d/1de1NZ7OYE71jtipqpd8T96Z1ggji3GVi/view?usp=sharing)
+
 Model Architecture
 The core of our project is the SimCLRNetwork, adapted from ResNet50, optimized for contrastive learning. Alongside, we employ the NT-Xent Loss function to enhance our model's capability to generate distinct and informative embeddings for each activity class.
 
